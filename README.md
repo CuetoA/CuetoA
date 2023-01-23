@@ -11,3 +11,6 @@ BTW:
 - ⚡ Fun fact: I love doggos
 
 Here a picture of my doggo in Mex:
+
+
+<img src="boni.jpeg" alt="drawing" style="width:200px;"/>
