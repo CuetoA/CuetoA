@@ -1,28 +1,27 @@
 <h1 align="center">Hi 👋, I'm Andrés Cueto</h1>
-<h3 align="center">A mechatronics engineer with a software background, I’m excited to keep learning and contribute to all the amazing advances in cross-functional engineering (such as robotics, automation, or embedded systems)</h3>
+<h3 align="center">Mechatronics engineer with strong software background, I’m excited to keep learning and contribute to all the amazing advances in cross-functional engineering, such as robotics, automation, or embedded systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuetoa&label=Profile%20views&color=0e75b6&style=flat" alt="cuetoa" /> </p>
 
-- 🔭 I’m currently working on **AI_Cover_Letter_Generator**
+- 🌱 Currently focused on Canadian 🇨🇦 Startup environment networking, so you may find GitHub a little forgotten.
 
-- 🌱 I’m currently learning **how to use AI tools (GUI/APIs) to simplify processes and tasks**
-
-- 🤝 I’m looking for help with **breaking into the Canadian 🇨🇦 labour market to get my first engineering role here**
-
+- 🤝 I’m invested in learning from diverse backgrounds, a lot of ☕️ chats going on.
+  
+- 🔭 One of my last projects was a small **GPT_Cover_Letter_Generator**. For us to land our first eng role in 🇨🇦.
+  
 - 👨‍💻 Most of my projects are available at [http://bit.ly/41qt0Vq](http://bit.ly/41qt0Vq)
 
-- 💬 Ask me about **Entrepreneurship, startups and tech innovation related to business and building the future**
+- 💬 Talk to me about **Entrepreneurship, startups, and tech building-the-future-innovation** 
 
 - 📫 How to reach me **andrescuetoestrada@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cyzQNInwGfTZVS2ZeTlmdamFLnv46odH/view?usp=share_link](https://drive.google.com/file/d/1cyzQNInwGfTZVS2ZeTlmdamFLnv46odH/view?usp=share_link)
 
-- ⚡ Fun fact **I love doggos, at the end of this document you'll find a photo of mine**
+- ⚡ Fun fact **I love dogs, at the end of this document you'll find a photo of mine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andres-cueto-estrada-4785b11b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-cueto-estrada-4785b11b3/" height="30" width="40" /></a>
-   <a href="https://www.instagram.com/andrescueto/?hl=es-la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andrescueto/?hl=es-la" height="30" width="40" /></a>
 </p>
 
 
