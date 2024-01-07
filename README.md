@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuetoa&label=Profile%20views&color=0e75b6&style=flat" alt="cuetoa" /> </p>
 
-- 🌱 Currently focused on Canadian 🇨🇦 Startup environment networking, so you may find GitHub a little forgotten.
+- 🌱 Currently focused on 🇨🇦 Startup networking, so you may find GitHub a little forgotten.
 
 - 🤝 I’m invested in learning from diverse backgrounds, a lot of ☕️ chats going on.
   
